@@ -1,8 +1,7 @@
 # DPPI_preguntator_2025
+App de tests para preparar el examen de DPPI, revivido en big 2025
 
-App de tests para preparar el examen de DPPI
-
-- Autores: Martín Beltrán, Luis Vijande, Daniel Alvarez y Juan Torrente.
+- Autores originales: Martín Beltrán, Luis Vijande, Daniel Alvarez y Juan Torrente.
 
 # AGRADECIMIENTOS POR APORTACIONES #
 - Sara Fernandez Arias
