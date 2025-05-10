@@ -3,6 +3,26 @@
     "topic": "Tema 1: introducción a los proyectos informáticos",
     "questions": [
       {
+        "question": "¿Cual de las siguientes afirmaciones es correcta respecto a las tareas a realizar en un proyecto?",
+        "options": [
+          "Son tareas habituales",
+          "Pueden realizarse el cualquier orden sin importar las prioridades",
+          "Es necesario realizarlas para conseguir el objetivo"
+        ],
+        "answer": 2,
+        "explanation": "1.1.3.1 Tarea. La respuesta correcta es: Es necesario realizarlas para conseguir el objetivo"
+      },
+      {
+        "question": "¿Quién ha definido la ingeniería del software como \"Una aproximación sistemática al desarrollo operación, mantenimiento y retirada del sfotware\"?",
+        "options": [
+          "Stephen Schach",
+          "Barry Boehm",
+          "IEEE"
+        ],
+        "answer": 2,
+        "explanation": "(Furtel, y otros, 2002) (Cap 1. \"What is Software Engineering?). La respuesta correcta es: IEEE"
+      },
+      {
         "question": "En muchos casos los proyectos de software engloban en un solo proyecto tres etapas diferenciadas en otros proyectos, ¿cuáles?",
         "options": [
           "Financiación, avalaes y garantías post-venta",
@@ -856,6 +876,16 @@
         ],
         "answer": 0,
         "explanation": "2.1.1.2.1 Sistema relacional empírico. La respuesta correcta es: A (Distancias kilométricas entre dos puntos), R (Lejos, Cerca) y O (porcentaje de distancia, doble distancia, diferencia de distancia)"
+      },
+      {
+        "question": "Sea un conjunto formado por ficheros de código, sobre el cual se mide el número de errores, donde existen las relaciones \"más errors que\" y \"menos errores que\" y donde se define la operación \"aglutinar errores de dos o más ficheros\", ¿Que forma?",
+        "options": [
+          "Un sistema relacional empírico",
+          "Ninguno de ambos, poque sólo hay una operación",
+          "Un sistema relacional formal"
+        ],
+        "answer": 0,
+        "explanation": "2.1.1.2.1 Sistema relacional empírico. La respuesta correcta es: Un sistema relacional empírico"
       },
       {
         "question": "El número medio de errores por cada módulo de programa, en un programa de comuncicaciones es",
@@ -2267,6 +2297,36 @@
         "explanation": "(PMBOK 5.0) 9.3.1 Develop Project Team: Inputs. La respuesta correcta es: El calendario de recursos"
       },
       {
+        "question": "Para realizar el desarrollo del equipo de proyecto se parte de algunos elementos de entrada, ¿Cuál de los siguientes es uno de ellos?",
+        "options": [
+          "Las normas básicas",
+          "Plan de riesgos",
+          "Plan de gestión de recursos humanos"
+        ],
+        "answer": 2,
+        "explanation": "(PMBOK 5.0) 9.3.1 Develop Project Team: Inputs. La respuesta correcta es: Plan de gestión de recursos humanos"
+      },
+      {
+        "question": "Dentro de las técnicas para el desarrollo del equipo de proyecto, ¿En qué consiste la de \"Formación\"?",
+        "options": [
+          "La formación consiste en la elaboración de cursos para mejorar las habilidades de comunicación de los miembros del equipo",
+          "La formación es una técnica de gestión del equipo de proyecto",
+          "La formación incluye todas las actividades destinadas a mejorar las competencias técnicas de los miembros del equipo"
+        ],
+        "answer": 2,
+        "explanation": "4.4.1 Técnicas. La respuesta correcta es: La formación incluye todas las actividades destinadas a mejorar las competencias técnicas de los miembros del equipo"
+      },
+      {
+        "question": "¿En qué consiste la interdependencia dentro de la dependencia de los miembros del equipo?",
+        "options": [
+          "Durante el diseño de han establecido un nivel muy alto de acoplamiento y las decisiones son complejas",
+          "Las actividades se hacen muy dependientes y requieren de muchos tiempos cortos de planificación",
+          "Si el equipo es interdependiente, las decisiones llevan mucho tiempo y al proyecto le cuesta avanzar"
+        ],
+        "answer": 1,
+        "explanation": "4.3.2 Dependencia de los miembros del equipo. La respuesta correcta es: Las actividades se hacen muy dependientes y requieren de muchos tiempos cortos de planificación"
+      },
+      {
         "question": "Dentro de los ámbitos principales de aportación de RRHH al proyecto, ¿Qué es la asignación permanente?",
         "options": [
           "Se trata de personas que se asignan al proyecto a tiempo completo",
@@ -3397,6 +3457,16 @@
         ],
         "answer": 1,
         "explanation": "5.2.1 Técnicas. La respuesta correcta es: Se basa en el cálculo de tres valores (optimista, medio y pesimista) que se evalúa de acuerdo a métodos estadísticos"
+      },
+      {
+        "question": "¿Cuál es uno de los productos más importantes de la estimación de costes?",
+        "options": [
+          "La estimación de costes desglosada o agrupada",
+          "El presupuesto de cliente",
+          "El presupuesto de adquisiciones"
+        ],
+        "answer": 0,
+        "explanation": "5.2.2 Resultados de la estimación de costes. La respuesta correcta es: La estimación de costes desglosada o agrupada"
       },
       {
         "question": "Hablando de las técnicas analíticas para la elaboración del Plan de gestión de costes, ¿Qué maneras de financiar los recursos necesarios se definen?",
@@ -5628,6 +5698,16 @@
         ],
         "answer": 2,
         "explanation": "9.7.2 Cadena Crítica. La respuesta correcta es: La sencillez de los cálculos a realizar"
+      },
+      {
+        "question": "¿Cómo se pueden definir los costes internos?",
+        "options": [
+          "Son los costes de los equipos usados en el proyecto",
+          "Son los costes en los que incurre el proyecto por haber usado recursos propios de la organización",
+          "Son costes temporales que la organización pagará al final del proyecto"
+        ],
+        "answer": 1,
+        "explanation": "9.5.1 Tipos de costes. La respuesta correcta es: Son los costes en los que incurre el proyecto por haber usado recursos propios de la organización"
       },
       {
         "question": "En la técnica de la Gestión de Valor ganado o acumulado, ¿Cuál es el coste estimado en la terminación (ECAC)?",
